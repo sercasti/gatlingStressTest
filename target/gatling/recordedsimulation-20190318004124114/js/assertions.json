@@ -1,0 +1,10 @@
+{
+  "simulation": "org.baeldung.RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1552869684114,
+  "description": "",
+  "scenarios": ["reactive"],
+  "assertions": [
+
+  ]
+}
